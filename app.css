@@ -1,0 +1,82 @@
+body
+{
+    background-color: khaki;
+    color: indigo;
+}
+header
+{
+    text-align: center;
+    font-style: italic;
+    font-weight: bolder;
+    padding-bottom: 5px;
+    padding-top: 1rem;
+    font-size: xxx-large;
+}
+textarea
+{
+    width: 80%;
+    border: 2px solid black;
+    height: 100px;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    margin: 2rem;
+    background-color: khaki;
+    font-size: xx-large;
+    text-align: center;
+    font-style: italic;
+    color: indigo;
+
+}
+#txt-output
+{
+    width: 80%;
+    border: 2px solid black;
+    height: 100px;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    margin: 2rem;
+    font-size: xx-large;
+    text-align: center;
+}
+h2
+{
+    text-align: center;
+    font-style: italic;
+    font-weight: bolder;
+    padding-bottom: 5px;
+    padding-top: 1rem;
+    font-size: x-large;
+}
+.footer
+{
+    text-align: center;
+    font-style: italic;
+    font-weight: bolder;
+    padding-bottom: 5px;
+    padding-top: 1rem;
+    font-size: x-large;
+    background-color: indigo;
+    color: khaki;
+    padding-bottom: 2rem;
+}
+p
+{
+    text-align: center;
+    font-style: italic;
+    font-weight: bolder;
+    padding-bottom: 5px;
+    padding-top: 1rem;
+    font-size: x-large;
+}
+#btn-translate
+{
+    display: block;
+    margin: 1rem auto;
+    padding: 0.5rem;
+    border: 0.5rem solid #D97706;
+    font-family: 'Nerko one', cursive;
+    font-size: 1.5rem;
+    background-color: cornsilk;
+    border-radius: 1rem;
+    color: indigo;
+}
